@@ -2,10 +2,6 @@
 
 Welcome to my **personal portfolio website**, built with **React.js, Node.js, HTML, CSS, and JavaScript**. This site showcases my **skills, projects, and contact information** in a professional, tech-savvy, AI-themed dark mode design.
 
-## 🌟 Live Preview
-[🔗 Click here to view the portfolio](https://your-live-link.com)  
-*(Replace with your actual deployment link once deployed.)*
-
 ---
 
 ## 📌 Features
